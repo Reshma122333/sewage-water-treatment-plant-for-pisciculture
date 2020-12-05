@@ -1,8 +1,4 @@
 
-RESHMA R <poprajupop@gmail.com>
-12:19 AM (2 minutes ago)
-to me
-
 #include<Servo.h>
 
 int in1= 6;
