@@ -24,4 +24,4 @@ _
 ## ***Hardware*** <br>
 <p float="left">
 <img src="https://github.com/Godson-Thomas/A.C.M.S-Automated-Cylinder-Monitoring-System-/blob/master/Components%20Used/UNO.jpg" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Godson-Thomas/A.C.M.S-Automated-Cylinder-Monitoring-System-/blob/master/Components%20Used/Node.jpg" width="180" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="COMPONENTS USED/driver.jpg" width="180" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
