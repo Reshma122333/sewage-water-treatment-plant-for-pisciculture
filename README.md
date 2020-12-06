@@ -23,5 +23,18 @@ _
 
 ## ***Hardware*** <br>
 <p float="left">
-<img src="https://github.com/Godson-Thomas/A.C.M.S-Automated-Cylinder-Monitoring-System-/blob/master/Components%20Used/UNO.jpg" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="COMPONENTS USED/arduino.jpg" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="COMPONENTS USED/driver.jpg" width="180" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="COMPONENTS USED/rela.jpg" width="200" /><br><br><br><br>
+  <img src="COMPONENTS USED/solenoid valve.jpg" width="150" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="COMPONENTS USED/level sensor.jpg" width="150" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="COMPONENTS USED/uv lamp.jpg" width="150" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="COMPONENTS USED/dc motor.jpg" width="150" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="COMPONENTS USED/level adapter.jpg" width="150" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="COMPONENTS USED/paddle wheel.jpg" width="150" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="COMPONENTS USED/pvc.jpg" width="150" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="COMPONENTS USED/mesh.jpg" width="150" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+
+<img src="https://github.com/Godson-Thomas/A.C.M.S-Automated-Cylinder-Monitoring-System-/blob/master/Components%20Used/SIM800L.jpg" width="150" /><br>
+
