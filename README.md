@@ -54,14 +54,10 @@ _
 
 
 
-
-
-
 ## ***Software*** 
 <p float="right">
 <img src="COMPONENTS USED/Arduino IDE.png" width="200" /><br><br><br>
-  
-   * ***Arduino IDE*** <br>
+  * ***Arduino IDE*** <br>
 </p><br>
 
 ## Block Diagram
