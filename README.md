@@ -35,4 +35,19 @@ _
 <img src="COMPONENTS USED/pvc.jpg" width="150" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="COMPONENTS USED/glass tank.jpg" width="150" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="COMPONENTS USED/mesh.jpg" width="150" /><br>
+  
+  
+  * ***Arduino UNO*** <br>
+* ***L298N motor drive***<br>
+* ***12v Dual channel Relay ***<br>
+* ***Solenoid valve***<br>
+* ***Water Level Sensor***<br>
+* ***UV lamp*** <br>
+* ***dc motor***<br>
+* ***12v 3A DC power supply Adapter***<br>
+* ***paddle wheel***<br>
+* ***pvc, glass tank, mesh ***<br>
+
+
+</p><br>
 
