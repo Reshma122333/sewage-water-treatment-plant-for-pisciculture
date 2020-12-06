@@ -9,7 +9,7 @@
 
 * Mentor : ***Mrs. Sreevidya P Menon***<br>
 
-* ACMS Team : <br>
+* Our Team : <br>
 ***Reshma R***<br>
 ***Kiran raju***<br>
 ***Nithin Krishnan A***<br>
