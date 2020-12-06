@@ -9,7 +9,7 @@
 
 * Mentor : ***Mrs. Sreevidya P Menon***<br>
 
-* ACMS Team : <br>
+* Our Team : <br>
 ***Reshma R***<br>
 ***Kiran raju***<br>
 ***Nithin Krishnan A***<br>
@@ -54,19 +54,27 @@ _
 
 
 
-
-
-
 ## ***Software*** 
 <p float="right">
 <img src="COMPONENTS USED/Arduino IDE.png" width="200" /><br><br><br>
-  
-   * ***Arduino IDE*** <br>
+ 
+ * ***Arduino IDE*** <br>
 </p><br>
 
 ## Block Diagram
 
-<img src="Block diagram/blockdiagram.JPG" alt="Logo" width=90% height=70%>
+<img src="BLOCK DIAGRAM/IMG_20201206_162701.jpg" alt="Logo" width=90% height=70%>
+
+## System Model
+
+<img src="IMAGES/IMG_20201206_004849.jpg" width=90% height=70%>
+
+## Output
+
+<img src="IMAGES/IMG_20201206_004946.jpg" alt="Logo" width=90% height=70%>
+
+
+
 
 
 
