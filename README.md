@@ -65,6 +65,8 @@ _
 
 <img src="BLOCK DIAGRAM/IMG_20201206_162701.jpg" alt="Logo" width=90% height=70%>
 
+## System Model
+<img src="IMAGES/" width=47% height=70%>
 
 
 
