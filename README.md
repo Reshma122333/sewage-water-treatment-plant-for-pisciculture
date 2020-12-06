@@ -51,3 +51,14 @@ _
 
 </p><br>
 
+
+
+
+
+
+
+## ***Software*** 
+<p float="right">
+<img src="COMPONENTS USED/Arduino IDE.png" width="200" /><br><br><br>
+
+
