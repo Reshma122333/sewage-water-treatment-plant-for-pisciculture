@@ -64,6 +64,11 @@ _
    * ***Arduino IDE*** <br>
 </p><br>
 
+## Block Diagram
+
+<img src="Block diagram/blockdiagram.JPG" alt="Logo" width=90% height=70%>
+
+
 
 
 
