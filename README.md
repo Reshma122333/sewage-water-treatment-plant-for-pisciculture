@@ -39,14 +39,14 @@ _
   
   * ***Arduino UNO*** <br>
 * ***L298N motor drive***<br>
-* ***12v Dual channel Relay ***<br>
+* ***12v Dual channel Relay***<br>
 * ***Solenoid valve***<br>
 * ***Water Level Sensor***<br>
 * ***UV lamp*** <br>
 * ***dc motor***<br>
 * ***12v 3A DC power supply Adapter***<br>
 * ***paddle wheel***<br>
-* ***pvc, glass tank, mesh ***<br>
+* ***pvc, glass tank, mesh***<br>
 
 
 </p><br>
