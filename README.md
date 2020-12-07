@@ -1,5 +1,5 @@
-# sewage water treatment plant for pisciculture
- * The mini project in ***Semester 5***<br>
+# Sewage Water Treatment Plant for Pisciculture
+ * Design Project in ***Semester 5***<br>
  * Electronics And Instrumentation Engineering ***FISAT(Federal Institute Of Science And Technology)***
 
 <br>
