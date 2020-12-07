@@ -17,8 +17,8 @@
 
 ## ***_Description_***
 
-_As we all know that the scarcity of freshwater is increasing, so we have an idea for solving this problem and that is the sewage treatment plant. Essentially, a sewage treatment plant operates by circulating air to encourage the growth of bacteria to break down sewage. The goal being to deliver much cleaner, more environmentally friendly effluent.
-The treatment includes physical, biological and sometimes chemical processes to remove pollutants. Its aim is to produce environmentally safe sewage water, called effluent, and a solid waste, called sludge or biosolids, suitable for disposal or reuse. Reuse is often for agricultural purposes, but more recently, sludge is being used as a fuel source. After the complete process the effluent that is the output (freshwater) can be used for fish farming - it is the fastest growing area of animal food production.chemical and bacterial analyses indicated that there is no evidence of any public health hazard associated with treated wastewater reuse in aquaculture.
+_As we all know that the scarcity of freshwater is increasing, so we have an idea for solving this problem and that is the sewage treatment plant. Essentially, a sewage treatment plant operates by circulating air to encourage the growth of bacteria to break down sewage. The goal being to deliver much cleaner, more environmentally friendly effluent._
+_The treatment includes physical, biological and sometimes chemical processes to remove pollutants. Its aim is to produce environmentally safe sewage water, called effluent, and a solid waste, called sludge or biosolids, suitable for disposal or reuse. Reuse is often for agricultural purposes, but more recently, sludge is being used as a fuel source. After the complete process the effluent that is the output (freshwater) can be used for fish farming - it is the fastest growing area of animal food production.chemical and bacterial analyses indicated that there is no evidence of any public health hazard associated with treated wastewater reuse in aquaculture._
 
 ## ***_Components & Tools :_***
 
